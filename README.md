@@ -28,17 +28,20 @@ A proposta foi construir uma **interface moderna de loja virtual**, com destaque
 ## 🖼️ Prévia do Projeto
 
 ### 🕐 Apple Watch Series X
-![Apple Watch](./img-preview/apple-watch-preview.png)
+![image](https://github.com/user-attachments/assets/38d4a34f-0490-4422-8687-3278a25db049)
+
 
 ---
 
 ### 🎧 Air Pods Max
-![Air Pods Max](./img-preview/air-pods-preview.png)
+![image](https://github.com/user-attachments/assets/39650abf-d10e-455b-affa-fe2d631a8e55)
+
 
 ---
 
 ### 👓 Apple Vision Pro
-![Vision Pro](./img-preview/vision-pro-preview.png)
+![image](https://github.com/user-attachments/assets/ce958178-953c-49ee-ac40-db827cc58a3a)
+
 
 ---
 
